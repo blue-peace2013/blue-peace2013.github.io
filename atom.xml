@@ -14,10 +14,11 @@
 &lt;h4 id=&#34;4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4&#34;&gt;#&lt;/a&gt; 4&lt;/h4&gt;
 &lt;h5 id=&#34;5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5&#34;&gt;#&lt;/a&gt; 5&lt;/h5&gt;
 &lt;h6 id=&#34;6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6&#34;&gt;#&lt;/a&gt; 6&lt;/h6&gt;
-&lt;h2 id=&#34;1111&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1111&#34;&gt;#&lt;/a&gt; &lt;strong&gt;1&lt;/strong&gt;&lt;br /&gt;
+&lt;h2 id=&#34;1111あ&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1111あ&#34;&gt;#&lt;/a&gt; &lt;strong&gt;1&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt;1&lt;/strong&gt;&lt;br /&gt;
 &lt;em&gt;1&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;1&lt;/em&gt;&lt;/h2&gt;
+&lt;em&gt;1&lt;/em&gt;&lt;br /&gt;
+ あ&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
